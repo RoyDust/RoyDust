@@ -27,7 +27,7 @@
 <!--END_SECTION:waka-->
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/RoyDust/RoyDust/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
 Example:

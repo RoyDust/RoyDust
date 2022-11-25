@@ -36,15 +36,10 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img
-  src="https://github.com/RoyDust/RoyDust/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=RoyDust&column=7)
+
 
 <br>
 

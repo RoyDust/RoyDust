@@ -52,7 +52,7 @@ LESS         1 min           ░░░░░░░░░░░░░░░░░
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-- **Blog: [https://roy-dust.feishu.cn/wiki/wikcn51neMADe0302gz6ypHIvDe](https://roy-dust.feishu.cn/wiki/wikcn51neMADe0302gz6ypHIvDe)**
+- **Blog: [http://blog.roydust.top](http://blog.roydust.top)**
 - GitHub：[https://github.com/RoyDust](https://github.com/RoyDust)
 - Email：[18570373214@163.com](18570373214@163.com)
 - WeChat: XW3214026782

@@ -51,5 +51,4 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 
 - **Blog: [http://blog.roydust.top](http://blog.roydust.top)**
 - GitHub：[https://github.com/RoyDust](https://github.com/RoyDust)
-- Email：[18570373214@163.com](18570373214@163.com)
-- WeChat: XW3214026782
+- Email：[3214026782@qq.com](3214026782@qq.com)

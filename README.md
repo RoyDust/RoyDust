@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 **核心技能**
-- 🎨 &nbsp; **Frontend**: JavaScript / TypeScript / HTML / CSS  
+- 🎨 &nbsp; **Frontend**: Vue |  React | TypeScript  
   *专注于现代化前端开发，追求性能与美学的平衡*
 
 - 🔧 &nbsp; **Backend**: Java | C | Node.js | Next.js

@@ -1,23 +1,38 @@
-<h2> Hey there! I'm RoyDust</h2>
+<h2> Hey there! I'm RoyDust 👋</h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; 一个来之湖南四非学院的软件工程的程序猿，2024年毕业
-- 🤔 &nbsp; 因为小时候喜欢破解网吧免费上网入坑行业
-- 🎓 &nbsp; 喜欢专研前端技术，喜欢尽量做到最好，但是大多时候因为时间问题，写的代码能跑就行
-- 💼 &nbsp; 我的邮箱：18570373214@163.com 
-- ✍️ &nbsp; 我的 [博客](http://blog.roydust.top) 和 [掘金主页](https://juejin.cn/user/1671736110352686)，欢迎访问
-- 🌱 &nbsp; 老二次元，资深萌豚观众
-- ☕ &nbsp; 咖啡成瘾患者，一天活力的精神支柱
+> *"像调配一杯精品咖啡一样编写代码，像制作动画一样打磨交互体验"*
+
+- 🎓 &nbsp; **软件工程** 出身（湖南 | 2024届），从非名校启航，在技术海洋中乘风破浪
+- 💡 &nbsp; **前端工程师** + **全栈探索者**，专注于构建优雅的用户界面和流畅的交互体验
+- 🎯 &nbsp; **技术理念**：既要追求代码的实用性，更要在时间允许时雕琢细节与性能，让每一行代码都值得被欣赏
+- 🎨 &nbsp; **跨界创作者**：前端开发 × UI设计，善于将多媒体思维融入Web开发
+- 🌸 &nbsp; **二次元老宅** | 资深萌豚观众，相信好的交互设计就像好的动画分镜一样能传递情感
+- ☕ &nbsp; **咖啡驱动开发者**，用一杯手冲开启每天的编码时光
+- ✍️ &nbsp; 在 [个人博客](http://blog.roydust.top) 和 [掘金](https://juejin.cn/user/1671736110352686) 分享技术思考与实践
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C | JavaScript | TypeScript | HTML | CSS 
-- 🛢   &nbsp; MySQL | Mongodb
-- 🔧  &nbsp;IntelliJ IDEA | Visual Studio code | Git | Vim
-- 🖥    Premiere Pro | Photoshop | After Effects | Audition
+**核心技能**
+- 🎨 &nbsp; **Frontend**: JavaScript / TypeScript / HTML / CSS  
+  *专注于现代化前端开发，追求性能与美学的平衡*
+
+- 🔧 &nbsp; **Backend**: Java | C | Node.js | Next.js
+  *全栈视野，理解前后端协作的完整链路*
+
+- 🗄️ &nbsp; **Database**: MySQL | MongoDB  
+  *关系型与文档型数据库的实践应用*
+
+**开发工具链**
+- ⚙️ &nbsp; Cursor | IntelliJ IDEA | Visual Studio Code  | Vim  
+  *工欲善其事，必先利其器*
+
+**创意工具箱**
+- 🎬 &nbsp; After Effects | Photoshop | Audition  
+  *用视频语言讲技术故事，用设计思维优化用户体验*
 
 <br>
 
